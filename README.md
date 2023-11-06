@@ -9,7 +9,7 @@
 - 主板：华硕H610M-A D4 <br>
 - 网卡：intel AX-200 <br>
 - 硬盘：恺侠1T固态 + 2T机械 <br>
-- 显示器：2K 75hz 飞利浦 【可开启HDPI】<br>
+- 显示器：2K 75hz 飞利浦 【可开启HIDPI】
 - OC版本：0.95 <br>
 - macos版本：Sonoma14.1 <br>
 
